@@ -22,10 +22,10 @@ Repository for tracking tasks and projects of the Bunyan 2025 Backend Developmen
 
 ### الخطوة 2: Clone & Branch
 1. قم بعمل Clone
-   ```
+   
 3. **مهم جداً:** قم بإنشاء (Branch) جديد يحمل اسمك باللغة الإنجليزية
 
-   ```
+   
 
 ### الخطوة 3: The Coding Task (المهمة البرمجية)
 1. داخل مجلد المشروع،
@@ -45,4 +45,3 @@ Repository for tracking tasks and projects of the Bunyan 2025 Backend Developmen
 أي تأخير بدون عذر مسبق سيعني انتقالك تلقائياً إلى حالة (مستمع).
 
 **بالتوفيق لجميع المتدربين! نحن بانتظار مساهماتكم. 🔥**
-```
